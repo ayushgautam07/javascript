@@ -1,3 +1,4 @@
+//undefine
 var x;
 console.log(x);
 
@@ -14,5 +15,5 @@ if(x== undefined)
 else {
     console.log("x has been defined");
 }
-//not define
+//y is not define
 console.log(y);
