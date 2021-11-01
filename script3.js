@@ -14,3 +14,5 @@ if(x== undefined)
 else {
     console.log("x has been defined");
 }
+//not define
+console.log(y);
